@@ -1,2 +1,2 @@
 # Global Enterprises
-Shred repo.
+Shared repo.
